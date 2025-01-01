@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: de_bootcamp
+    schema: public 
+    
+    tables:
+      - name: devices
